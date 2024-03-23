@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 //import Header from './components/Header';
 import App from './containers/App';
 
-console.log("Hola mundo")
+console.log("Rama para llevar el control de pago de bonos")
 
 //ReactDOM.render(<Header />, document.getElementById("app"));
 ReactDOM.render(<App />, document.getElementById("app"));
